@@ -10,10 +10,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any projects that help us both grow!
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: [![LinkedIn](https://www.linkedin.com/in/darby-benfield/)]
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
+
+###My Github Stats
 [![Darby's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbenfield21&show_icons=true&theme=radical)](https://github.com/dbenfield/github-readme-statsvercel.app/api?username=dbenfield21&show_icons=true&theme=radical)
 
 

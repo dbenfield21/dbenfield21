@@ -1,12 +1,24 @@
 <div align="center">
-<h2> Hi everyone! 👋 Im Darby Benfield (She/Her), an avidly learning software engineer with a background in nursing! I recently finished a Software Engineering Intensive Bootcamp with General Assembly & I'm ecstatic about turning my new found programming skills into a career. </h2>
+    <h2> Hi everyone! 👋 Im Darby Benfield (She/Her) </h2>
+    <div align="center">
+    <a href="#"><img align="center" src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>  </a>
+    <a href="#"><img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg"/>  </a>
+    </div>   
+    
+    
+<h2> Im an avidly learning software engineer with a background in nursing! I recently finished a Software Engineering Intensive Bootcamp with General Assembly & I'm ecstatic about turning my new found programming skills into a career. </h2>
 </div>
+
+ 
+
 
 - 🔭 I’m currently working on growing my MERN (MongoDB, Express, React, and Node) stack skills. 
 - 🌱 I’m currently learning Python/Django. 
 - 👯 I’m looking to collaborate on any projects that help us both expand our knowledge!
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darby-benfield/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/darby-benfield/) or check out my *[Portfolio](https://www.darbybenfield.com)*
 
+
+    
 <div align="center">
     <h2> My Github Stats </h2>
     <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dbenfield21&show_icons=true&theme=radical&count_private=true"/>  </a>

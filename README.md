@@ -1,12 +1,12 @@
 <div align="center">
-    <h2> Hi everyone! 👋 Im Darby Benfield (She/Her) </h2>
+    <h2> Hi everyone! 👋 I'm Darby Benfield (She/Her) </h2>
     <div align="center">
     <a href="#"><img align="center" src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>  </a>
     <a href="#"><img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg"/>  </a>
     </div>   
     
     
-<h2> Im an avidly learning software engineer with a background in nursing!🩺 I recently finished a Software Engineering Intensive Bootcamp with General Assembly & I'm ecstatic about turning my new found programming skills into a career. </h2>
+<h2> I'm an avidly learning software engineer with a background in nursing!🩺 I recently finished a Software Engineering Intensive Bootcamp with General Assembly & I'm ecstatic about turning my newfound programming skills into a career. </h2>
 </div>
 
  
@@ -15,7 +15,7 @@
 <h3>🌱 I’m currently learning Python/Django. </h3>
 <h3>🤝 I’m looking to collaborate on any projects that help us both expand our knowledge! </h3>
 <h3>🔗 Reach me: <a href="https://www.linkedin.com/in/darby-benfield/" src="https://www.linkedin.com/in/darby-benfield/">LinkedIn</a>  </h3>
-<h3>📖 Checkout my projects: <a href="https://www.darbybenfield.com" src="https://www.darbybenfield.com">Portfolio</a> </h3>
+<h3>📖 Check out my projects: <a href="https://www.darbybenfield.com" src="https://www.darbybenfield.com">Portfolio</a> </h3>
 
 
 

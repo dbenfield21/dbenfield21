@@ -14,7 +14,7 @@
 <h3>💡 I’m currently working on growing my MERN (MongoDB, Express, React, and Node) stack skills. </h3>
 <h3>🌱 I’m currently learning Python/Django. </h3>
 <h3>🤝 I’m looking to collaborate on any projects that help us both expand our knowledge! </h3>
-<h3> Ask me about: The best EHR's! I love to talk tech from my nursing days. 
+<h3>🖥️ Ask me about: The best EHR's (Epic/Meditech/Cerner)! I love to talk tech from my nursing days. 
 <h3>🔗 Reach me: <a href="https://www.linkedin.com/in/darby-benfield/" src="https://www.linkedin.com/in/darby-benfield/">LinkedIn</a>  </h3>
 <h3>📖 Check out my projects: <a href="https://www.darbybenfield.com" src="https://www.darbybenfield.com">Portfolio</a> </h3>
 

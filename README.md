@@ -14,15 +14,6 @@
 
 
 
-<div align="center">
-    <h2> My Stats </h2>
-    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dbenfield21&show_icons=true&theme=radical&count_private=true"/>  </a>
-</div>
-
-<div align="center">
-    <h2> My Most Used Languages </h2>
-   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbenfield21&layout=compact&theme=radical"/></a> 
-</div>
 
 <div align ="center">
     <h2> Tech/Languages/Comfort Zone </h2>
